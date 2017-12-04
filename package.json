@@ -41,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-s3.git"
+    "url": "git+https://github.com/gx761/egg-s3.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/gx761/egg-s3/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-s3#readme",
+  "homepage": "https://github.com/gx761/egg-s3#readme",
   "author": "royguo",
   "license": "MIT"
 }
